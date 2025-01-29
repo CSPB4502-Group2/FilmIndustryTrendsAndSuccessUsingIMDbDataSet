@@ -12,11 +12,10 @@ This project analyzes IMDb data to uncover key trends influencing film success.
 
 ### Dataset  
 - **Source:** IMDb Dataset ([URL])  
-- **Provider:** IMDb  
-- **Download Status:** [Available/Not Available]  
+- **Provider:** IMDb   
 
 ### Tools  
 - **Languages:** Python
 
-**For more details, such as prior work and proposed work for Part 1, refer to** *02_Film_Industry_Trends_And_Success_Using_IMDb_Data_Set.pdf*  
+**For more details of Part 1, please refer to** *02_Film_Industry_Trends_And_Success_Using_IMDb_Data_Set.pdf*  
 
