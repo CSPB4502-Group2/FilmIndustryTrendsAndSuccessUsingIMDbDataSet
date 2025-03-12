@@ -18,5 +18,6 @@ This project analyzes IMDb data to uncover key trends influencing film success.
 - **Languages:** Python
 
 **For more details of Part 1, please refer to** *02_FilmIndustryTrendsAndSuccessUsingIMDbDataSet_Part1.pdf*  
-**For more details of Part 1, please refer to** *02_FilmIndustryTrendsAndSuccessUsingIMDbDataSet_Part2.pdf*  
+**For more details of Part 2, please refer to** *02_FilmIndustryTrendsAndSuccessUsingIMDbDataSet_Part2.pdf*
+**For more details of Part 3, please refer to** *02_FilmIndustryTrendsAndSuccessUsingIMDbDataSet_Part3.pdf* 
 
