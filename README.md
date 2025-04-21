@@ -4,6 +4,7 @@
 **Film Industry Trends & Success Prediction Using IMDb Data**
 
 ## Group 02
+This README.md file is updated for Part 6 submission.
 
 ## Team Members
 - Nathan Harris  
@@ -15,6 +16,10 @@ We leverage the public IMDb datasets (title.basics and title.ratings) along with
 1. **What factors most strongly influence a movie’s IMDb rating?**  
 2. **Can we accurately predict a movie’s rating (continuous) or classify its success (top 20% rating) using only basic metadata?**  
 3. **How do linear models compare with tree‑based ensembles (Random Forests, Gradient Boosting) in this context?**
+
+## Code Files
+All of code files upto Part 3 has been found in a foler `DataIntegration`.
+The main source code for this project can be found in `imdb_movie_success_prediction.ipynb`.
 
 ## Key Findings & Answers
 - **Univariate & Multivariate Insights:** IMDb ratings follow a roughly Gaussian distribution (peak ~6–7), while vote counts are extremely right‑skewed. Pairwise correlations among features and genres are close to zero, suggesting weak linear relationships.  
