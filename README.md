@@ -32,9 +32,9 @@ These results highlight the challenges of severe class imbalance and the benefit
 ## Application of This Knowledge
 Studios and streaming platforms can integrate our predictive pipeline—ranging from data ingestion through model scoring—to inform green‑lighting decisions, marketing spend allocation, release timing, and content curation. Marketers can focus campaigns on attributes our models identify as high‑impact, while recommendation engines can blend these predictions with collaborative filters to surface high‑potential titles to targeted audiences.
 
-## Demonstration Video
-A short walkthrough of our interactive Jupyter dashboards and model visualizations is available here:  
-**[Watch the Video]( link)**
+## Project Presentation
+Our <6 min project presentation video can be seen here:  
+**[Watch the Presentation]( link TO BE ADDED)**
 
 ## Final Project Paper
 Detailed methodology, results, and discussion can be found in our final report:  
