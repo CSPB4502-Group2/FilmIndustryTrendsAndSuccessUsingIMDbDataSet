@@ -45,7 +45,7 @@ Our <6 min project presentation video can be seen here:
 Detailed methodology, results, and discussion can be found in our final report:  
 **[Download the Final Report (PDF)](02_FilmIndustryTrendsAndSuccessUsingIMDbDataSet_Part4.pdf)**
 
-## Reference
+## Previous Reports
 Below are previous reports:
 **[Download the Part1 Report (PDF)](02_FilmIndustryTrendsAndSuccessUsingIMDbDataSet_Part1.pdf)**
 **[Download the Part2 Report (PDF)](02_FilmIndustryTrendsAndSuccessUsingIMDbDataSet_Part2.pdf)**
