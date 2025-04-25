@@ -38,9 +38,18 @@ These results highlight the challenges of severe class imbalance and the benefit
 Studios and streaming platforms can integrate our predictive pipeline—ranging from data ingestion through model scoring—to inform green‑lighting decisions, marketing spend allocation, release timing, and content curation. Marketers can focus campaigns on attributes our models identify as high‑impact, while recommendation engines can blend these predictions with collaborative filters to surface high‑potential titles to targeted audiences.
 
 ## Project Presentation
-Our <6 min project presentation video can be seen here:  
-**[https://cuboulder.zoom.us/rec/share/sXJLGgcAvDlX5qvMWx88h38uu2SEjh0mE_0mge0gJvutPYITIR42HpaTp3t277jp.oUVHgQOh1y0KfkdA?startTime=1745612852000
-Passcode: &JWp3m1@]**
+We’ve recorded a ~5 minute group presentation covering:
+- Project motivation & questions
+- Data preparation & warehousing
+- Exploratory analysis
+- Regression & classification models
+- Key insights & applications
+
+You can stream the Zoom recording here (passcode: `&JWp3m1@`):
+**[https://cuboulder.zoom.us/rec/share/sXJLGgcAvDlX5qvMWx88h38uu2SEjh0mE_0mge0gJvutPYITIR42HpaTp3t277jp.oUVHgQOh1y0KfkdA?startTime=1745612852000]**
+
+The presentation slides are here:
+**[Download Slide Deck (PDF)](02_FilmIndustryTrendsAndSuccessUsingIMDbDataSet_Part6.pdf)**
 
 ## Final Project Paper
 Detailed methodology, results, and discussion can be found in our final report:  
