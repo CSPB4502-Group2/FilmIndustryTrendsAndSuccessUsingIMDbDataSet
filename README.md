@@ -39,7 +39,8 @@ Studios and streaming platforms can integrate our predictive pipeline—ranging 
 
 ## Project Presentation
 Our <6 min project presentation video can be seen here:  
-**[Watch the Presentation]( link TO BE ADDED)**
+**[https://cuboulder.zoom.us/rec/share/sXJLGgcAvDlX5qvMWx88h38uu2SEjh0mE_0mge0gJvutPYITIR42HpaTp3t277jp.oUVHgQOh1y0KfkdA?startTime=1745612852000
+Passcode: &JWp3m1@]**
 
 ## Final Project Paper
 Detailed methodology, results, and discussion can be found in our final report:  
