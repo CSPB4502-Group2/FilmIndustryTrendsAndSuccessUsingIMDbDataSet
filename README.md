@@ -46,7 +46,7 @@ We’ve recorded a ~5 minute group presentation covering:
 - Key insights & applications
 
 You can stream the Zoom recording here (passcode: `&JWp3m1@`):
-**[https://cuboulder.zoom.us/rec/share/sXJLGgcAvDlX5qvMWx88h38uu2SEjh0mE_0mge0gJvutPYITIR42HpaTp3t277jp.oUVHgQOh1y0KfkdA?startTime=1745612852000]**
+**[02_FilmIndustryTrendsAndSuccessUsingIMDbDataSet_Part6_Video](https://cuboulder.zoom.us/rec/share/sXJLGgcAvDlX5qvMWx88h38uu2SEjh0mE_0mge0gJvutPYITIR42HpaTp3t277jp.oUVHgQOh1y0KfkdA?startTime=1745612852000)**
 
 The presentation slides are here:
 **[Download Slide Deck (PDF)](02_FilmIndustryTrendsAndSuccessUsingIMDbDataSet_Part6.pdf)**
