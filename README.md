@@ -49,7 +49,7 @@ You can stream the Zoom recording here (passcode: `&JWp3m1@`):
 **[02_FilmIndustryTrendsAndSuccessUsingIMDbDataSet_Part6_Video](https://cuboulder.zoom.us/rec/share/sXJLGgcAvDlX5qvMWx88h38uu2SEjh0mE_0mge0gJvutPYITIR42HpaTp3t277jp.oUVHgQOh1y0KfkdA?startTime=1745612852000)**
 
 The presentation slides are here:
-**[Download Slide Deck (PDF)](02_FilmIndustryTrendsAndSuccessUsingIMDbDataSet_Part6.pdf)**
+**[Download Slide Deck `02_FilmIndustryTrendsAndSuccessUsingIMDbDataSet_Part6.pdf` (PDF)](02_FilmIndustryTrendsAndSuccessUsingIMDbDataSet_Part6.pdf)**
 
 ## Final Project Paper
 Detailed methodology, results, and discussion can be found in our final report:  
